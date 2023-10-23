@@ -1,9 +1,9 @@
-import ErrorExample from "./tutorial/01-useState/01-error-example";
+import UseStateBasics from "./tutorial/01-useState/02-useState-basics"
 
 const App = () => {
   return (
     <div className="container">
-      <h2><ErrorExample/></h2>
+      <h2><UseStateBasics/></h2>
     </div>
   )
 }
