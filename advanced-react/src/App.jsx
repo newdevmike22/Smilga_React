@@ -1,9 +1,9 @@
-import UseStateBasics from "./tutorial/01-useState/02-useState-basics"
+import UseStateArray from "./tutorial/01-useState/03-useState-array";
 
 const App = () => {
   return (
     <div className="container">
-      <h2><UseStateBasics/></h2>
+      <h2><UseStateArray/></h2>
     </div>
   )
 }
